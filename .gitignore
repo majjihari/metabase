@@ -12,13 +12,11 @@
 .eastwood
 .idea/
 .nrepl-port
-.vscode
 /*.h2.db
 /*.lock.db
 /*.mv.db
 /*.trace.db
 /.babel_cache
-/.env
 /.lein-env
 /.lein-failures
 /.lein-plugins
@@ -82,3 +80,4 @@ dev/src/dev/nocommit/
 # lsp: ignore all but the config file
 .lsp/*
 !.lsp/config.edn
+config.bat
